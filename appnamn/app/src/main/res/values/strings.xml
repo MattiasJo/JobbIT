@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">appnamn</string>
+    <string name="title_activity_job_search">JobSearch</string>
+    <string name="title_activity_start_screen">StartScreen</string>
 </resources>
